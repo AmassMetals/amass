@@ -1,0 +1,16 @@
+baseurl = "/"
+enableGitInfo = true
+enableRobotsTXT = true
+paginate = 9
+title = "Amass Metals"
+[blackfriday]
+  fractions = false
+[params]
+  author = "Amass Metals"
+  email = "info@example.com"
+  url = "example.com"
+  ga_analytics = "UA-127907990-2"
+  ga_verify = "ZaNNn0hSVhEblnb4DBJ2Fvx6ZH3Baoa6zSkGmFkDqrU"
+  logo = "logo.png"
+[taxonomies]
+  tag = "tags"
