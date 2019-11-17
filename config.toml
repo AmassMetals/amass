@@ -1,16 +1,73 @@
-baseurl = "/"
-enableGitInfo = true
-enableRobotsTXT = true
-paginate = 9
+baseURL = "https://amassmetals.com"
+languageCode = "en-us"
 title = "Amass Metals"
-[blackfriday]
-  fractions = false
+theme = "kross"
+summaryLength = "10"
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/shuffle/shuffle.min.js"
+
+
+# navigation
+[menu]
+    
+  # [[menu.main]]
+  # name = "About"
+  # URL = "about"
+  # weight = 2
+  
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 3
+  
+  # [[menu.main]]
+  # name = "Portfolio"
+  # URL = "portfolio"
+  # weight = 4
+  
+  # [[menu.main]]
+  # name = "Contact"
+  # URL = "contact"
+  # weight = 5
+
+
 [params]
-  author = "Amass Metals"
-  email = "info@example.com"
-  url = "example.com"
-  ga_analytics = "UA-127907990-2"
-  ga_verify = "ZaNNn0hSVhEblnb4DBJ2Fvx6ZH3Baoa6zSkGmFkDqrU"
-  logo = "logo.png"
-[taxonomies]
-  tag = "tags"
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+
+  [params.contact]
+  enable = true
+  formAction = "#" #contact form works with formspree.io
+
+  [params.footer]
+  email = "steve.fruits@email.com"
+  phone = "+880 2544 658 256"
+  address = "125/A, CA Commercial Area, California, USA"
