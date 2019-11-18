@@ -1,0 +1,24 @@
+---
+label: Blog Article
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: image
+  label: image
+- type: text
+  name: description
+  label: description
+- type: text
+  name: author
+  label: author
+- type: text
+  name: type
+  label: type

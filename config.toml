@@ -4,10 +4,6 @@ summaryLength = "10"
 theme = "kross"
 title = "Amass Metals"
 [[menu.main]]
-name = "twitter"
-url = "https://twitter.com/AmassMetals"
-weight = 2
-[[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 1
@@ -17,10 +13,8 @@ URL = "https://forms.office.com/Pages/ResponsePage.aspx?id=l1JPWmptT0OgPYcHAnD5c
 weight = 2
 [[menu.main]]
 name = "twitter"
-icon = "twitter.svg"
-URL = "https://twitter.com/amassmetals"
+url = "https://twitter.com/AmassMetals"
 weight = 3
-  
 [params]
 author = "Themefisher"
 description = "This is meta description"
