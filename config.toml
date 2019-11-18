@@ -4,7 +4,7 @@ summaryLength = "10"
 theme = "kross"
 title = "Amass Metals"
 [[menu.main]]
-name = "Twitter"
+name = "twitter"
 url = "https://twitter.com/AmassMetals"
 weight = 2
 [[menu.main]]
@@ -26,7 +26,7 @@ author = "Themefisher"
 description = "This is meta description"
 googleAnalitycsID = "Your ID"
 home = "Home"
-logo = "images/logo.png"
+logo = "images/amassmetals-copy.png"
 [params.contact]
 enable = true
 formAction = "#"

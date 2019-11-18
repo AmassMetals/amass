@@ -1,17 +1,3 @@
-/*!------------------------------------------------------------------
-[MAIN STYLESHEET]
-PROJECT: Project Name
-VERSION: Versoin Number
--------------------------------------------------------------------*/
-@import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700";
-
-@font-face {
-  font-family: bwnistaint-xbd;
-  src: url(../fonts/BwNistaInt-xBd.woff) format("woff");
-  font-style: normal;
-  font-display: swap
-}
-
 body {
   line-height: 1.2;
   font-family: roboto, sans-serif;
@@ -35,7 +21,6 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: playfair display, serif;
   line-height: 1.2
 }
 
@@ -87,7 +72,6 @@ h6,
 
 .btn {
   font-size: 22px;
-  /* font-family: playfair display, serif; */
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -221,7 +205,6 @@ a:hover {
 
 .section-title {
   margin-bottom: 80px;
-  font-family: bwnistaint-xbd
 }
 
 .bg-cover {
@@ -330,12 +313,9 @@ a:hover {
   overflow: hidden
 }
 
-.font-secondary {
-  font-family: playfair display, serif !important
-}
 
 .font-tertiary {
-  font-family: bwnistaint-xbd !important
+  font-weight: 600;
 }
 
 .shadow {
