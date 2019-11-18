@@ -1,7 +1,7 @@
 {{ define "main" }}
   <section class = 'wrap_min mt-1 mb-5 pt-5 pb-1 text-center link_show'>
     <h1 class = 'flex'>{{ .Title }}</h1>
-    <!-- <img class = 'logo' src = '/images/{{ .Params.logo }}' alt = 'Amass Metals'> -->
+    <img class = 'logo' src = '/images/{{ .Params.logo }}' alt = 'Amass Metals'>
     {{ .Params.description | markdownify }}
   </section>
 {{ end }}

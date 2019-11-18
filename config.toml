@@ -20,7 +20,7 @@ author = "Themefisher"
 description = "This is meta description"
 googleAnalitycsID = "Your ID"
 home = "Home"
-logo = "images/amassmetals-copy.png"
+logo = "images/logo.png"
 [params.contact]
 enable = true
 formAction = "#"
