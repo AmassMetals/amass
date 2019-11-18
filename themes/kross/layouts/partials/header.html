@@ -26,7 +26,13 @@
         </li>
         {{ else }}
         <li class="nav-item">
-          <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
+          <a class="nav-link" href="{{ .URL | absURL }}">
+          {{ if eq .Name "twitter" }}
+            <img src = "/images/icons/{{ .Name }}.svg" alt = "{{ .Name }} icon" class = 'icon-twitter'/>
+          {{ else }}
+            {{ .Name }}
+          {{ end }}
+        </a>
         </li>
         {{ end }}
         {{ end }}

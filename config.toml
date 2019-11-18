@@ -29,18 +29,20 @@ summaryLength = "10"
 # navigation
 [menu]
     
-  # [[menu.main]]
-  # name = "About"
-  # URL = "about"
-  # weight = 2
-  
   [[menu.main]]
   name = "Blog"
   URL = "blog"
+  weight = 2
+
+  [[menu.main]]
+  name = "Be a Founder"
+  URL = "https://forms.office.com/Pages/ResponsePage.aspx?id=l1JPWmptT0OgPYcHAnD5cslOLnYDd4NPldkEoxDeIQhUQTRLOUFPNzkyWFgyV1AwVEtGVDlIWkhMSS4u"
   weight = 3
+  
   
   [[menu.main]]
   name = "twitter"
+  icon = "twitter.svg"
   URL = "https://twitter.com/amassmetals"
   weight = 4
   
@@ -51,7 +53,7 @@ summaryLength = "10"
 
 
 [params]
-logo = "images/logo.png"
+logo = "images/amassmetals-copy.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
