@@ -9,6 +9,12 @@
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
 
+  {{- if (ne hugo.Environment "development") }}
+  {{- partial "analytics.html" . }}
+  {{- end }}
+  
+  {{- partial "opengraph.html" . }}
+
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .URL | absURL }} ">
