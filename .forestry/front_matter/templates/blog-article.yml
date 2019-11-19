@@ -22,3 +22,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- content/blog/invest-in-precious-metals-to-protect-your-wealth.md

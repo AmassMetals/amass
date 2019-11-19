@@ -1,0 +1,19 @@
++++
+author = "Sean Ryan"
+date = 2019-11-04T18:56:00Z
+description = "Gold and other precious metals are always acknowledged as a safe, long term investment, but too often the asset allocation in this important area is done last or even forgotten altogether. While stocks have had a tremendous run, it is important to reallocate and diversify your portfolio in other non-correlated assets such as precious metals."
+draft = true
+image = "images/GettyImages-1060858272.jpg"
+title = "Invest In Precious Metals To Protect Your Wealth"
+type = ""
+
++++
+Gold and other precious metals are always acknowledged as a safe, long term investment, but too often the asset allocation in this important area is done last or even forgotten altogether. While stocks have had a tremendous run, it is important to reallocate and diversify your portfolio in other non-correlated assets such as precious metals.
+
+Investment professionals recommend holding at least ten percent of your assets in gold and [precious metal investments](http://www.amassmetals.com/) in normal economic conditions. With the possibility of economic disasters, hyper-inflation or other uncertainties, your allocation should increase to as much as twenty-five percent of your investment portfolio. Gold, silver and other precious metals are an established hedge against market volatility, weak currencies and political instability. In addition, they have no credit risk, have low correlation with other asset classes and maintain their purchasing power anywhere in the world.
+
+For US investors, our US dollar is the reserve currency for the world, but its impact is being reduced each year. In addition, the US economy is continuously saddled with huge amounts of federal debt now exceeding $22 Trillion. With political discussions of the Green New Deal, Medicare for all and record military spending budgets, there are no signs of the federal debt being reduced anytime soon. If there is any slowdown in the economy or loss of confidence in the US economy, investors will see record stock market losses. Investors around the world will liquidate their equity holdings and purchase precious metals as a safe haven. Long term holdings of gold, silver and other precious metals provide the stability you need in your portfolio to keep and grow your wealth.
+
+Whether you are just starting out building a portfolio of precious metals, or an experienced investor adding to their existing investments, 1 oz bars are the perfect option to [buy gold](http://www.amassmetals.com/). Buying physical gold and precious metals provides the peace of mind that you have a real asset rather than investing in a market indices or mining company. Nearly all 1 oz precious metal bars are stamped with their purity amount and weight indication. Often times, the mark of the mint or the producing mint is also stamped into the bar. The small size of these bars offers advantages to those without much room to store their investment yet provide high liquidity and hold their value.
+
+Amass Metals is designed to be simple for beginners but feature-rich for savvy precious metal investors and “gold bugs”. The company makes it easy to sign up with low minimums and unique features such as automatic recurring deposits and round up spare change to build your wealth easily and seamlessly. The company is dedicated to security with insured partners like Brinks Security and secured vaults all around the world. Amass Metals also makes storing your gold easy with easy and convenient storage or shipments directly to your home. Contact them today to get started securing your investment portfolio and your future.
