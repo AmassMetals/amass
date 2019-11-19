@@ -2,7 +2,7 @@ baseURL = "https://amassmetals.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross"
-title = "Amass Metals"
+title = <title>{{ if .Page.Title }}{{ .Page.Title }} - {{ end }}{{ .Site.Title }}</title>
 [[menu.main]]
 URL = "blog"
 name = "Blog"
