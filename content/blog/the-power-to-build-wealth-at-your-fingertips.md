@@ -2,7 +2,6 @@
 author = "Anjalie Patel"
 date = 2019-11-07T17:57:00Z
 description = ""
-draft = true
 image = "images/Indian-Woman-Holding-Gold-Necklace.jpg"
 title = "The Power to Build Wealth at Your Fingertips"
 type = ""
