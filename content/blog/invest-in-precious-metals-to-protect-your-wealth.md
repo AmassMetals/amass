@@ -2,7 +2,6 @@
 author = "Sean Ryan"
 date = 2019-11-04T18:56:00Z
 description = "Gold and other precious metals are always acknowledged as a safe, long term investment, but too often the asset allocation in this important area is done last or even forgotten altogether. While stocks have had a tremendous run, it is important to reallocate and diversify your portfolio in other non-correlated assets such as precious metals."
-draft = true
 image = "images/GettyImages-1060858272.jpg"
 title = "Invest In Precious Metals To Protect Your Wealth"
 type = ""
